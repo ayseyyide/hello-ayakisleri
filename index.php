@@ -11,7 +11,9 @@
 </head>
 <body>
 
-
+  
+<!-- harita -->
+  
 <div class="img-responsive" id="map" style="width:1000px;height:250px"> </div>
 
 <script>
@@ -28,9 +30,9 @@ var map = new google.maps.Map(document.getElementById("map"), mapOptions);
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZTbrle2noYDhHo0Oxli7byp5lqHNUAr0&callback=myMap"></script>
 
-
 <br>
 
+  <!-- formumsu bir şey -->
 
 <div class="container">
   <h2>ayak işlerine itinayla koşulur </h2>
@@ -60,6 +62,8 @@ var map = new google.maps.Map(document.getElementById("map"), mapOptions);
 </div>
 <br>
 
+  <!-- yolla gifi -->
+  
 <div class="container">
   
   <img class="img-responsive" src="http://68.media.tumblr.com/8923ff26df4bb9872638f4eb8ae2288b/tumblr_os9azijpTE1sms489o1_500.gif" alt="yolla kaderimi yolla"> 
